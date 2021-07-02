@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListAndMap</string>
+
+    <!--Home-->
+    <string name="txtViewList">View List</string>
+    <string name="txtViewMap">View Map</string>
+
+    <!--Internet Connection-->
+    <string name="no_internet">No Internet Connection</string>
+    <string name="try_again">Try Again Later</string>
+
+    <!--CheckBox List-->
+    <string name="tvSelectedCB">Selected Checkbox</string>
+
+    <!--Map Direction-->
+    <string name="tvFindRoute">Find Route</string>
+    <string name="tvCancel">Close</string>
+    <string name="tvFrom">From</string>
+    <string name="tvTo">To</string>
+    <string name="tvFindDirection">Find Direction</string>
+
+</resources>
